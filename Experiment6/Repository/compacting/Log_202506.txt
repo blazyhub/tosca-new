@@ -1,0 +1,28 @@
+[Info] 10-06-2025 21:09:21: Auto-exclusion started
+[Info] 10-06-2025 21:09:21: 0/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:21: 50/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:21: 100/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:21: Auto-exclusion finished
+[Info] 10-06-2025 21:09:32: Compacting cancelled
+[Info] 10-06-2025 21:09:32: Compacting started
+[Info] 10-06-2025 21:09:32: 0/100 - Compacting Workspace
+[Info] 10-06-2025 21:09:32: Compacting Workspace - Defragmentation finished in 00:00:00.1118674, database size: 7307264
+[Info] 10-06-2025 21:09:32: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 10-06-2025 21:09:33: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0280715, database size: 7307264
+[Info] 10-06-2025 21:09:33: Compacting finished
+[Info] 10-06-2025 21:09:59: Auto-exclusion started
+[Info] 10-06-2025 21:09:59: 0/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:59: 50/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:59: 100/100 - Unused objects exclusion
+[Info] 10-06-2025 21:09:59: Auto-exclusion finished
+[Info] 10-06-2025 21:10:10: 95/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:10: Compacting started
+[Info] 10-06-2025 21:10:10: Compacting Workspace - Defragmentation finished in 00:00:00.1794834, database size: 7380992
+[Info] 10-06-2025 21:10:10: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0340641, database size: 7380992
+[Info] 10-06-2025 21:10:10: Compacting finished
+[Info] 10-06-2025 21:10:11: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:12: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:13: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:14: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:15: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 10-06-2025 21:10:16: 99/100 - Defragmenting Data - [estimated time left 0 s]
