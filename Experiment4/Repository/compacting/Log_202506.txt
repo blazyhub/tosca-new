@@ -1,0 +1,11 @@
+[Info] 10-06-2025 20:15:40: Auto-exclusion started
+[Info] 10-06-2025 20:15:41: 0/100 - Unused objects exclusion
+[Info] 10-06-2025 20:15:41: 50/100 - Unused objects exclusion
+[Info] 10-06-2025 20:15:41: 100/100 - Unused objects exclusion
+[Info] 10-06-2025 20:15:41: Auto-exclusion finished
+[Info] 10-06-2025 20:15:52: Compacting started
+[Info] 10-06-2025 20:15:52: 0/100 - Compacting Workspace
+[Info] 10-06-2025 20:15:52: Compacting Workspace - Defragmentation finished in 00:00:00.1601086, database size: 8597504
+[Info] 10-06-2025 20:15:52: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 10-06-2025 20:15:52: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0359356, database size: 8597504
+[Info] 10-06-2025 20:15:52: Compacting finished
